@@ -18,7 +18,8 @@ El proyecto consiste en dos formularios (`Form1` y `Form2`) que interactúan ent
 ## Instrucciones de Uso
 
 1. Ejecuta la aplicación.
-2. [Instrucciones detalladas sobre cómo usar la aplicación]
+2. Registrar Libro
+3. Prestar libro
 
 ## Contribuir
 
