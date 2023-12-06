@@ -1,0 +1,17 @@
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\bin\Debug\net7.0-windows\Registro de Libros.exe
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\bin\Debug\net7.0-windows\Registro de Libros.deps.json
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\bin\Debug\net7.0-windows\Registro de Libros.runtimeconfig.json
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\bin\Debug\net7.0-windows\Registro de Libros.dll
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\bin\Debug\net7.0-windows\Registro de Libros.pdb
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro_de_Libros.Form1.resources
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro_de_Libros.Form2.resources
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.csproj.GenerateResource.cache
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.AssemblyInfoInputs.cache
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.AssemblyInfo.cs
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.csproj.CoreCompileInputs.cache
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.dll
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\refint\Registro de Libros.dll
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.pdb
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\Registro de Libros.genruntimeconfig.cache
+C:\Users\deadz\source\repos\Registro de Libros\Registro de Libros\obj\Debug\net7.0-windows\ref\Registro de Libros.dll
