@@ -13,7 +13,7 @@ El proyecto consiste en dos formularios (`Form1` y `Form2`) que interactúan ent
 
 ## Requisitos del Sistema
 
-- .NET Framework [insertar versión]
+- .NET Framework 7.0
 
 ## Instrucciones de Uso
 
